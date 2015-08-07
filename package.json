@@ -1,0 +1,27 @@
+{
+  "name": "simple-menu",
+  "version": "1.0.0",
+  "description": "A \"simple as it get's\" terminal based menu for numeric selection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattaschmann/simple-menu"
+  },
+  "keywords": [
+    "nodejs",
+    "terminal",
+    "menu"
+  ],
+  "author": "Matt Aschmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattaschmann/simple-menu/issues"
+  },
+  "homepage": "https://github.com/mattaschmann/simple-menu",
+  "dependencies": {
+    "readline-sync": "^1.2.19"
+  }
+}
