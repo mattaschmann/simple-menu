@@ -1,6 +1,6 @@
 {
   "name": "simple-menu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A \"simple as it get's\" terminal based menu for numeric selection.",
   "main": "index.js",
   "repository": {
